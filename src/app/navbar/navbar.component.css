@@ -1,0 +1,13 @@
+header{
+    background-color: blueviolet;
+    padding:15px;
+
+}
+a{
+    color:white;
+    text-decoration: none;
+    padding:15px;
+}
+a:hover{
+    background-color: rgb(96, 30, 158);
+}
